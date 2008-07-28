@@ -1,7 +1,7 @@
 %define rname mpd
 %define name ruby-%{rname}
 %define version 0.2.3
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: Ruby bindings for libmpd
 Name: %{name}
