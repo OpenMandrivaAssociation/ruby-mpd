@@ -40,3 +40,23 @@ ruby setup.rb install --prefix=%buildroot
 %defattr(-,root,root)
 %doc COPYING INSTALL.en.txt INSTALL.ja.txt
 %ruby_sitelibdir/*
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-5mdv2010.0
++ Revision: 433543
+- rebuild
+
+* Sat Aug 02 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-4mdv2009.0
++ Revision: 260430
+- rebuild
+
+* Mon Jul 28 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.2.3-3mdv2009.0
++ Revision: 251742
+- rebuild
+
+* Wed Jan 16 2008 Jérôme Soyer <saispo@mandriva.org> 0.2.3-1mdv2008.1
++ Revision: 153620
+- import ruby-mpd
+
+
