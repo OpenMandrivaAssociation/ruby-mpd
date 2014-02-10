@@ -1,4 +1,5 @@
 %define rname mpd
+%define debug_package %{nil}
 
 Summary: Ruby bindings for libmpd
 Name:    ruby-%{rname}
