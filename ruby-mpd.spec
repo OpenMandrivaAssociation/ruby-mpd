@@ -4,7 +4,7 @@
 Summary: Ruby bindings for libmpd
 Name:    ruby-%{rname}
 Version: 0.2.3
-Release: 6
+Release: 7
 URL: https://rubyforge.org/
 Source0: https://rubyforge.org/frs/download.php/8040/%{rname}-rb-%{version}.tar.gz
 License: GPL
